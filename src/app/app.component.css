@@ -1,0 +1,21 @@
+.mat-card{
+  margin-top: 1rem;
+  width: 30%;
+  height: 100px;
+  margin: auto;
+  background-color: teal;
+  border: solid;
+  border-color: rgb(238, 255, 0);
+}
+
+.mat-toolbar{
+  background-color: coral;
+  height: 100%;
+  border: solid;
+  border-color: rgba(203, 20, 240, 0.952);
+}
+
+span {
+  margin: auto;
+
+}
